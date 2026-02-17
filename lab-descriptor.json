@@ -15,7 +15,6 @@
     "name": "Types of Weld Joints and Weld Positions",
     "short-name": "weld-joints",
     "repo": "https://github.com/virtual-labs/exp-weld-joints-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -23,7 +22,6 @@
     "name": "Principles of Shielded Metal Arc Welding",
     "short-name": "shielded-metal-arc-welding",
     "repo": "https://github.com/virtual-labs/exp-shielded-metal-arc-welding-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -31,7 +29,6 @@
     "name": "Effect of Welding Parameters on the Weld Bead",
     "short-name": "effect-of-welding",
     "repo": "https://github.com/virtual-labs/exp-effect-of-welding-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -39,7 +36,6 @@
     "name": "Heat Flow Across the Weld Bead",
     "short-name": "heat-flow-weld-bead",
     "repo": "https://github.com/virtual-labs/exp-heat-flow-weld-bead-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -47,7 +43,6 @@
     "name": "Principles of Gas Welding and Gas Cutting Processes",
     "short-name": "gas-cutting-processes",
     "repo": "https://github.com/virtual-labs/exp-gas-cutting-processes-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -55,7 +50,6 @@
     "name": "Principles of Metal Inert Gas Welding",
     "short-name": "metal-inert-gas-welding",
     "repo": "https://github.com/virtual-labs/exp-metal-inert-gas-welding-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -63,7 +57,6 @@
     "name": "Principles of Tungsten Inert Gas Welding",
     "short-name": "tungsten-inert-gas-welding",
     "repo": "https://github.com/virtual-labs/exp-tungsten-inert-gas-welding-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -71,7 +64,6 @@
     "name": "Principles of Submerged Arc Welding (SAW)",
     "short-name": "submerged-arc-welding",
     "repo": "https://github.com/virtual-labs/exp-submerged-arc-welding-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -79,7 +71,6 @@
     "name": "Weldzone Evaluation",
     "short-name": "weldzone-evaluation",
     "repo": "https://github.com/virtual-labs/exp-weldzone-evaluation-iitkg",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -87,7 +78,6 @@
     "name": "Non-Destructive Testing (NDT) of Welded Joint",
     "short-name": "ndt-welded-joint",
     "repo": "https://github.com/virtual-labs/exp-ndt-welded-joint-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   },
@@ -95,7 +85,6 @@
     "name": "Advanced Welding Techniques",
     "short-name": "advanced-welding-techniques",
     "repo": "https://github.com/virtual-labs/exp-advanced-welding-techniques-iitkgp",
-    "branch": "main",
     "tag": "v1.0.0",
     "deploy": true
   }
