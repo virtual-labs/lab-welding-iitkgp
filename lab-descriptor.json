@@ -15,7 +15,7 @@
     "name": "Types of Weld Joints and Weld Positions",
     "short-name": "weld-joints",
     "repo": "https://github.com/virtual-labs/exp-weld-joints-iitkgp",
-    "tag": "v1.0.0",
+    "tag": "v2.0.0",
     "deploy": true
   },
   {
